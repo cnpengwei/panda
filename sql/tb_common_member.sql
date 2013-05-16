@@ -24,3 +24,4 @@
 | onlyacceptfriendpm | tinyint(1)            | NO   |     | 0       |                |
 | conisbind          | tinyint(1) unsigned   | NO   | MUL | 0       |                |
 +--------------------+-----------------------+------+-----+---------+----------------+
+create table tb_common_member(uid mediumint(8) unsigned not null primary key auto_increment);
