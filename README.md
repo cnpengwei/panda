@@ -1,4 +1,4 @@
 panda
 =====
 
-song and imgaes sort
+song and images sort
