@@ -24,6 +24,9 @@
 | onlyacceptfriendpm | tinyint(1)            | NO   |     | 0       |                |
 | conisbind          | tinyint(1) unsigned   | NO   | MUL | 0       |                |
 +--------------------+-----------------------+------+-----+---------+----------------+
+identifier | varchar(32)      | YES  | MUL | NULL    |       |
+
+
 create table tb_common_member(uid mediumint(8) unsigned not null primary key auto_increment default NULL, 
 email char(40) not null, username char(15) not null, password char(32) not null, status tinyint(1) not null default 0, 
 emailstatus tinyint(1) not null default 0, avatarstatus tinyint(1) default 0, 
