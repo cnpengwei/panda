@@ -24,7 +24,9 @@
 | onlyacceptfriendpm | tinyint(1)            | NO   |     | 0       |                |
 | conisbind          | tinyint(1) unsigned   | NO   | MUL | 0       |                |
 +--------------------+-----------------------+------+-----+---------+----------------+
-identifier | varchar(32)      | YES  | MUL | NULL    |       |
+| identifier | varchar(32)      | YES  | MUL | NULL    |       | --second identifier
+| token      | varchar(32)      | YES  |     | NULL    |       | --forever login
+| timeout    | int(10) unsigned | YES  |     | NULL    |       | --forever login time-out
 
 
 create table tb_common_member(uid mediumint(8) unsigned not null primary key auto_increment default NULL, 
