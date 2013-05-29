@@ -1,0 +1,12 @@
+[2013-05-25 12:21:53]a@b.com
+[2013-05-25 12:21:53]zhangsan
+[2013-05-25 12:21:53]01d7f40760960e7bd9443513f22ab9af
+[2013-05-25 12:21:53]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@b.com, 01d7f40760960e7bd9443513f22ab9af, zhangsan)' at line 1
+[2013-05-25 12:23:25][object Object]
+[2013-05-25 12:23:25][object Object]
+[2013-05-25 12:23:25]1441a7909c087dbbe7ce59881b9df8b9
+[2013-05-25 12:23:25]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[object Object], 1441a7909c087dbbe7ce59881b9df8b9, [object Object])' at line 1
+[2013-05-25 12:28:19]a
+[2013-05-25 12:28:19]a
+[2013-05-25 12:28:19]0cc175b9c0f1b6a831c399e269772661
+[2013-05-25 12:28:19]Unknown column 'a' in 'field list'
