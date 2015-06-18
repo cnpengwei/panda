@@ -5,7 +5,7 @@
 </head>
 <body>
 <?php include 'nav_bar.php'; ?>
-
+<!-- text here-->
 <pre>
   me index page
 </pre>
